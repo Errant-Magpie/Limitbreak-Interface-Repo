@@ -1,0 +1,23 @@
+{
+  "name": "Somebody",
+  "lore": "They exist",
+  "class": "Fighter",
+  "subclass": "Champion",
+  "level": "10",
+  "soulDrive": "Bleakwind",
+  "soulTier": "2",
+  "classEssence": "20",
+  "soulEssence": "32",
+  "hp": "25",
+  "maxHp": "26",
+  "ac": "18",
+  "speed": "30 feet",
+  "str": "15",
+  "dex": "16",
+  "con": "7",
+  "int": "18",
+  "wis": "12",
+  "cha": "20",
+  "fullPortraitUrl": "",
+  "teamPortraitUrl": ""
+}
