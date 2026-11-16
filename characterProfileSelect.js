@@ -8,7 +8,7 @@ async function selectCharacter(characterId){
 
     try {
         const response = await fetch(
-            `/api/character-profiles/${encodeURIComponent(characterId)}`,
+            `/api/characters/$(characterId)`,
             { signal: controller.signal }
         );
 

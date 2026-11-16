@@ -3,7 +3,7 @@ const fs = require("node:fs/promises");
 const path = require("node:path");
 
 const app = express();
-const profileDirectory = path.join(__dirname, "character-profiles");
+const profileDirectory = path.join(__dirname,"character-profiles");
 const profileFields = new Set([
   "name",
   "lore",
