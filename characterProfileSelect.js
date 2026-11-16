@@ -8,13 +8,11 @@ async function selectCharacter(characterId){
 
     try {
         const response = await fetch(
-            `/api/characters/${encodeURIComponent(characterId)}`,
+            `/api/character-profiles/${characterId}`,
             { signal: controller.signal }
         );
 
-        if (!response.ok) {
-            throw new Error(`Failed to load character profile (${response.status})`);
-        }
+        if (!response.ok) throw new Error("Failed to load selectCharacter");
 
         const character = await response.json();
 
