@@ -15,6 +15,7 @@
   "type": "commonjs",
   "main": "apps.js",
   "scripts": {
+    "start": "node apps.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {

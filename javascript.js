@@ -1,3 +1,3 @@
 window.onload = function() {
-  selectCharacter(characterTestProfile.json);
+  selectCharacter("characterTestProfile");
 };
