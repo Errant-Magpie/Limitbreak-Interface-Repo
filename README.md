@@ -3,4 +3,3 @@ repository for the LIMITBREAK ttrpg character interface. this repo functions use
 for the TTRPG campaign "Limit Break!: One Way Out!" run by myself.
 
 This is a personal project for me and my friends. It will receive updates as I see fit.
-
