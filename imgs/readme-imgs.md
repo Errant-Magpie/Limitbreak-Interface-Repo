@@ -1,0 +1,1 @@
+This imgs folder should only be used for the storage of character icons. Additional assets should be stored to and called from the ux folder.
